@@ -37,6 +37,6 @@ Pod::Spec.new do |s|
   s.ios.dependency 'MoneyAuth', '~> 3.3.0'
   s.ios.dependency 'ThreatMetrixAdapter', '~> 3.3.3'
 
-  s.ios.dependency 'YandexMobileMetrica/Dynamic', '= 3.0.0'
+  s.ios.dependency 'YandexMobileMetrica/Dynamic', '~> 3.0'
 
 end
